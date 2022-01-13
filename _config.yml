@@ -8,14 +8,14 @@ version: 2
 # Personal info
 name: Deepak Jaiswal
 title: Manager Research & Development
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+email: roboticist.dj@gmail.com
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
+# twitter_username: facespics
 github_username:  roboticistdj
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
@@ -30,10 +30,12 @@ youtube_username: UCJB0J7SqpBZvuCOylvAVM7A
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
+
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
