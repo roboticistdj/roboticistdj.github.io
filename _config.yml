@@ -9,6 +9,7 @@ version: 2
 name: Deepak Jaiswal
 title: Manager Research & Development
 email: roboticist.dj@gmail.com
+phone: +91 - 9011093361
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
@@ -48,71 +49,479 @@ youtube_username: UCJB0J7SqpBZvuCOylvAVM7A
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.png
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Hi, my name is Deepak Jaiswal and I'm a Roboticist. I'm experianced in developing products from scratch. I'm passionate about Robotics, ROS, A.I, M.L, D.L, Embedded Systems, Industry 4.0 and Algorithms. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Kalyani Group
+        link: https://www.bharatforge.com/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Research & Development Manager
+        caption: Febuary 2019 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Solving Industry 4.0 problems by developing A.I enabled products to predict machine failure and machine vision to improve Quality. 
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            Enabling Data driven manufacturing is hard due to harsh enviornment and Bharat Forge Ltd. is no exception, with a team of 10-12 engineers we develop highly engineered ML enabled devices solve shop floor issues. 
+
+
+      - layout: left
+        title: Aliyance Technology
+        link: https://www.aliyancemech.com/
+        # link_text: boringcompany.com
+        sub_title: Project Manager
+        caption: January 2017 - October 2018
+        quote: >
+          followed passion to stick with robotics, developed multiple prototypes until got the chance to build India's first robotics museum.
+        description: | # this will include new lines to allow paragraphs
+            Initially worked as Sr. Mechatronics Engineer on Humanoid robots and Animatronics, build R&D prototype for precision agriculture with 8-10 people, later planned/bid for the roboseum received grant of INR 150 Crores worth project, which we excuted with 70-80 engineers.  
+ 
+
+      - layout: left
+        title: India first robotics
+        link: indiafirstrobotics.com
+        # link_text: boringcompany.com
+        sub_title: Chief Technology Officer
+        caption: August 2015 - January 2017
+        quote: >
+          followed passion to stick with robotics, developed multiple prototypes until got the chance to build India's first robotics museum.
+        description: | # this will include new lines to allow paragraphs
+            Initially worked as Sr. Mechatronics Engineer on Humanoid robots and Animatronics, build R&D prototype for precision agriculture with 8-10 people, later planned/bid for the roboseum received grant of INR 150 Crores worth project, which we excuted with 70-80 engineers.  
+                   
+
+      - layout: left
+        title: Gleam Energy Solutions
+        link: http://whiteplacard.com/
+        # link_text: boringcompany.com
+        sub_title: Founder
+        caption: Febuary 2013 - April 2015
+        quote: >
+          A startup during college focused to solve energy losses & renewable energy
+        description: | # this will include new lines to allow paragraphs
+            Initially deals/distributed LED lights in Uttar Pradesh region as C&F whiteplacard technology. later started Researh & Development facility to utilise clean & green energy to manufacture energy efficient LED Lighting systems, and developed solutions on Smart Lighting & Solar energy.
+
+
+      - layout: left
+        title: White Placard
+        link: http://whiteplacard.com/
+        # link_text: boringcompany.com
+        sub_title: Researcher / Internship
+        caption: 2010 - 2012
+        quote: >
+          Journey started to become roboticist, robotics clubs, robotics competition, Seminars, workshops.
+        description: | # this will include new lines to allow paragraphs
+            college time where i love to spend time in robotics Lab rather classrooms, Won 26 national competitions, conducted 20/30 robotics workshops & A.I. Seminars across India, Research on genetic A.I.
+
+
+
+  - title: part-time social experiance # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+
+      - layout: left
+        title: NITI Aayog
+        link: https://aim.gov.in/aic.php
+        # link_text: boringcompany.com
+        sub_title: MoC - AIC
+        caption: June 2020 - Present
+        quote: >
+          Mentor of change for Atal Incubation Centre (initiated by AIM: Atal Innovation Mission).
+        description: | # this will include new lines to allow paragraphs
+            To create an ever-evolving ecosystem of start-ups and entrepreneurs, AIM has been establishing world class incubators called Atal Incubation Centres (AICs) at universities, institutions and corporates among others. These Centres aim to foster and support world class innovation, dynamic entrepreneurs who want to build scalable and sustainable enterprises.
+      
+      - layout: left
+        title: NITI Aayog
+        link: https://aim.gov.in/atl.php
+        # link_text: boringcompany.com
+        sub_title: MoC - ATL
+        caption: Febuary 2020 - Present
+        quote: >
+          Mentor of change for Atal Tinkering Lab (initiated by AIM: Atal Innovation Mission).
+        description: | # this will include new lines to allow paragraphs
+            With a vision to ‘Cultivate one Million children in India as Neoteric Innovators’, Atal Innovation Mission is establishing Atal Tinkering Laboratories (ATLs) in schools across India. The objective of this scheme is to foster curiosity, creativity, and imagination in young minds; and inculcate skills such as design mindset, computational thinking, adaptive learning, physical computing etc.
+
+
+
+
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Rajasthan Technical University
+        caption: 2009 - 2015
+        sub_title: B.Tech Electronics & Communications
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          GIT  has been recognised as the top Engineering Institutes in Rajasthan for the last 19 years and ranked 'A' by Rajasthan Technical University (RTU), Kota
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          During my time at GIT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          I spent a lot of my free time as a member of the *GEARS robotics club* taking on roles such as *Mechatronics Lead* and *President*.
 
-  - title: A Little More About Me
+      - layout: left
+        title: Technocrat Automation
+        caption: 2014 - 2015
+        sub_title: PGDIA
+        quote: >
+          Est. 1998, Hands on Industrial Automation training & International Accreditation Organization certifications
+        description: | # this will include new lines to allow paragraphs
+          Post Graduate Diploma in Industrial Automation during my training at Technocrat Automation I worked on 6 mojor brands of PLCs, 2 mojor brands of SCADA, 3 DCS, VFD, MMI, Pneumatics & Field Instruments, PAC & servo motion control
+
+          Experimented and build multiple solutions for industries based on PLC, DCS & Robotics automation. 
+
+      - layout: left
+        title: CBSE Delhi
+        caption: 2002 - 2009
+        sub_title: High school & Senior secondory school
+        quote: >
+          Govt. Boys Sr. Sec. School , Block-A, Janakpuri, New Delhi was established in 1973 and it is managed by the Department of Education.
+        description: | # this will include new lines to allow paragraphs
+          from 6th standard to 12th studied in govt. school, major Science, Mathematics. 
+
+          NCC cadet for 4 years, delhi civil defense 2 years. 
+
+
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: LIMHA 
+        link: 
+
+        quote: >
+          Live machine health analysis. M.L., FFT, DSP, machine to machine communication, failure prediction. 
+        description: | # this will include new lines to allow paragraphs
+          I started this project to reduce machine downtime, Project LIMHA is focused on real time machine behavior analysis, it is a complete system with various level of computation like mist, fog & Edge computing. 9 axis accelation transmitted to cluster of edge computers becomes a AI supercomputer and runs ML algorithms to do real time anomaly, decriptive, prescriptive & predictive analysis on the Edge.
+
+
+      - layout: top-middle
+        title: MPICV
+        link: 
+
+        quote: >
+          magnetic partical inspection using computer vision. (crack detection), NDT, CV
+        description: | # this will include new lines to allow paragraphs
+          Replaced human inspector which was 80% accuracy due to UV enviornment, developed low cost product to do non destructive testing under dark light. product based on vision camera as input and SoC as Edge computing unit which detect and learn human inspector behavior to take decision on quality analysis. 
+
+
+      - layout: top-middle
+        title: Data Management Handbook for Industry 4.0
+        link: https://sibc.se/isblrt
+
+        quote: >
+          Digitalization is a joint working group under ISBLRT (India Sweden Business Leaders Roundtable) for sharing knowledge, to collaboration and to do business. This handbook is a result of that work. 
+        description: | # this will include new lines to allow paragraphs
+           ISBLRT is as a high-level platform for business leaders from Sweden and India to identify joint challenges in the fields of research, innovation, investments, financing, trade, business, industrialization and regulatory issues which need to be addressed to forge a strong and durable relationship between the two countries. This forum of business leaders will identify collaborations, draw upon best practices, and advise political leadership on both sides, on the way forward to quickly develop our relationship from bilateral, European and global business perspectives. 
+
+      - layout: top-middle
+        title: PufferFish ventilator (Stanford University)
+        link: https://www.pez-globo.org/
+        # link_text: Project Website
+        additional_links:
+          - title:  Fighting COVID-19 with open-source ventilator design
+            icon: fab fa-github
+            url: https://github.com/pez-globo
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        quote: >
+          PufferFish is a rapidly manufacturable open-source full featured ventilator.
+        description: | # this will include new lines to allow paragraphs
+          Pufferfish is an open-source, full-featured ICU ventilator. It is the result of a communal effort to design a solution that is low-cost, can be manufactured rapidly and is clinically relevant for COVID-19 patients. With peak flow rate above 300 l/min, Pufferfish can be used to provide both invasive and noninvasive ventilation as well as high flow oxygen therapy. 
+
+      - layout: top-middle
+        title: VITAL software V0.2 (JPL NASA)
+        link: https://medeng.jpl.nasa.gov/covid-19/ventilator/
+
+        quote: >
+          JPL developed prototype with emergency use authorization from the FDA, VITAL: Ventilator Intervention Technology Accessible Locally 
+        description: | # this will include new lines to allow paragraphs
+           As a licensee for VITAL (covid-19 ventilator device) we developed software V0.2 to manufacture and distribute ventilators across INDIA. 
+           The VITAL ventilator is unique, versatile, and designed for more acutely ill patients. It will satisfactorily meet the demands of those who require aggressive ventilatory support in a variety of clinical states, which may include low compliance, high resistance, hypoxia and hypercapnia 
+
+      - layout: top-middle
+        title: Sanjeevani (covid-19)
+        link: 
+        quote: >
+          SpO2 Based Smart Oxygen Delivery System for patients suffering from state of hypoxia.
+        description: | # this will include new lines to allow paragraphs
+            Sanjeevani the proposed system is a Smart Oxygen Delivery System for Covid-19 Patients . Considering current situation, oxygen delivery systems are the need of time. Patients are needed to be monitored thoughout day and night based on their SpO2(Blood Oxyegn Saturation) levels, and pulse levels oxygen should be supplied to save patients sinking into the state of Hypoxia. This smart system can be a boon during the current situation to the medical faternity.
+         
+      - layout: top-middle
+        title: CEPA (agriculture)
+        link: 
+        quote: >
+          Controlled Environment Precision Agriculture.
+        description: | # this will include new lines to allow paragraphs
+            An Indian initiative in the field of precision agriculture - CEPA (Controlled Environment Precision Agriculture) Research and planned two type of intelligent robotic solutions, 1. CEPA-Cartesian which is work in closed environment with high precision. 2. CEPA-Rover, an intelligent electric vehicle with station and feedback who do land preparation, seeding, crop management, irrigation and harvesting autonomously.
+         
+
+      - layout: top-middle
+        title: AURORA (medical)
+        link: 
+        quote: >
+          AURORA - Autonomous Robot Radiologist.
+        description: | # this will include new lines to allow paragraphs
+            This project started to save lives of newborn babies and pregnant women’s, AURORA - Autonomous Robot Radiologist. Vision behind this project is to scan, monitor autonomously on remote location and predict the future health condition using intelligent system. Robots planed – cartesian system based and Delta mechanism.
+         
+      - layout: top-middle
+        title: The Roboseum
+        link: https://sciencecity.gujarat.gov.in/ticketing/ticket/robotics-gallery-40
+        quote: >
+          India's first robot gallery with 66 deifferent sections.
+        description: | # this will include new lines to allow paragraphs
+            Project Manager of The Roboseum, design and developements of all types of robots like domestic, industrial, commercial, entertainment, surgical etc. India to establish the world's first robot themed science center, to be called "the Roboseum". Commissioned during October '17 by Gujarat’s chief minister
+  
+
+      - layout: top-middle
+        title: Space Robot (replica of NASA robonaut)
+        link: 
+        quote: >
+          Humanoid robot 
+        description: | # this will include new lines to allow paragraphs
+            The human-like head consists of 2 cameras acting as the eyes of the robot and 2 speakers as the ears of the robot. The eye movements and the head movements are independent of each other. 5 DOF in each arm,16 DOF in each hand, 10 fingers sensors, 10 independent motorized fingers with silicon grip, 1 Kinect (gesture capture, 3D depth recognition), 1 PIR SENSOR (PRESENCE DETECTION)
+
+
+      - layout: top-middle
+        title: SPLICE 3D printer
+        link: 
+        quote: >
+          April 2017 - May 2018 
+        description: | # this will include new lines to allow paragraphs
+            Splice 3DP module enables to print a multi-coloured object using single extruder, This Device based on Arduino. Key Features: Arduino, Stepper Motor, G-code, 3D Printer, Splicer Unit, Filament cutter, Communication b/w multiple devices.
+
+
+      - layout: top-middle
+        title: Peltier based tent air conditioner
+        link: 
+        quote: >
+          June 2017 - October 2017 
+        description: | # this will include new lines to allow paragraphs
+            As suggested by name it was planned to design a small portable solar powered air-conditioner for camping tent with some extra features like display humidity temperature, time etc., can be used as power backup for electronics devices.
+
+      - layout: top-middle
+        title: Test stand for harmonic drives
+        link: 
+        quote: >
+          Febuary 2017 - June 2017 
+        description: | # this will include new lines to allow paragraphs
+            This research was initiated to build a test stand to analyzed various characteristics of Harmonic Drives like horizontal/vertical torque, vibration and heat changes, also they were able to communicate with other Test stands
+
+      - layout: top-middle
+        title: Harmonic actuated low orbit satellite tracking
+        link: 
+        quote: >
+          January 2017 - Febuary 2017 
+        description: | # this will include new lines to allow paragraphs
+            The goal of this project was to design a PAN and TILT High precision mechanism and mount a digital telescope over it and track low orbit satellite (International Space Station) using image processing, Object Tracking.
+
+
+      - layout: top-middle
+        title: Estimation vehicle speed using image processing
+        link: 
+        quote: >
+          June 2016 - January 2017 
+        description: | # this will include new lines to allow paragraphs
+            It was a solo project that, Keywords:Image Processing;Kalman Filter; Automated vehicle Detection; Traffic Densities Counting;MATLAB. The  processed  images were recorded  by  a  fixed  camera  positioned in two  pedestrian  bridges. Along with the video images procurement, manual vehicle counting was completed to validate the automated counting tool.
+
+
+      - layout: top-middle
+        title: buyrobo.in
+        link: buyrobo.in
+        quote: >
+          October 2016
+        description: | # this will include new lines to allow paragraphs
+            It is an e-commerce website for robotics, electronics components and project solutions. design and develop product which was 1/10 of market price, all products was commercialised to promote STEM education.
+
+
+      - layout: top-middle
+        title: Industrial Robotics ARM
+        link: 
+        quote: >
+          May 2016
+        description: | # this will include new lines to allow paragraphs
+            Industrial hand for pick and place objects from conveyor belt using PLC and Arduino. The technology used: Arduino, Delta PLC, Infrared sensors, Metal detector, Servo Motors.
+
+
+      - layout: top-middle
+        title: Ear recognition system
+        link: 
+        quote: >
+          March 2016
+        description: | # this will include new lines to allow paragraphs
+            This project was built to detect and recognize human EAR using neural network and image acquisition toolbox. For this we used MATLAB as a processing tool. We did image preprocessing to remove unwanted information of ear images, also performed steps like image segmentation and feature extraction to get desirable shape of ear for ear recognition system purpose.
+
+      - layout: top-middle
+        title: Face recognition based attendance system for classrooms.
+        link: 
+        quote: >
+          March 2016
+        description: | # this will include new lines to allow paragraphs
+            Multiple face recognition from a single photograph and automatically saved and marked in excel sheet. Technology: Principle Component Analysis, MATLAB, Neural Network. 
+            Calculate the eigen value of the captured face image and compared with that of the existing face images. If the eigen values matches, then the recognition process will start soon. Using PCA algorithm the following steps would be followed Find the face information of matched face image in the database.
+            Update the log table with corresponding face image and system time that makes completion of attendance for an individual students.
+
+      - layout: top-middle
+        title: Face recognition System.
+        link: 
+        quote: >
+          January 2016
+        description: | # this will include new lines to allow paragraphs
+            Human face detection and recognition using viola jones and Eigenvalue algorithm, 4000 images in 4 second with 96% accuracy.
+
+      - layout: top-middle
+        title: FACIAL FEATURE DETECTION AND RECOGNITION
+        link: 
+        quote: >
+          January 2016
+        description: | # this will include new lines to allow paragraphs
+            Human facial feature detection such as Mouth, eyes, ears, nose and Smile.Technology used: Facial feature extraction, MATLAB.
+
+      - layout: top-middle
+        title: STEM Traning modules
+        link: 
+        quote: >
+          January 2016
+        description: | # this will include new lines to allow paragraphs
+            Developed various training modules for School/College students, 6th sense technology, Vision Robotics, A.I., IoT, Bluetooth controlled the robot, Gesture controlled Robot, Industrial Automation, Advanced Embedded System.
+
+
+      - layout: top-middle
+        title: MATuino
+        link: 
+        quote: >
+          December 2015
+        description: | # this will include new lines to allow paragraphs
+            Developed Graphical based programming enviornment for kids under 10. MATuino is about prototyping innovative tech ideas which involves Python , Arduino, Raspberry Pi and data and image analytics. nterfacing Arduino UNO with MATLAB without using any supporting inbuilt functions. So , for answering all those queries I am posting this article by explaining MATLAB & Arduino UNO serial communication .
+
+
+      - layout: top-middle
+        title: Product based on S4A
+        link: 
+        quote: >
+          November 2015
+        description: | # this will include new lines to allow paragraphs
+            Designed Arduino programming environment using scratch software for 6+ age of children’s. S4A is a Scratch modification that allows for simple programming of the Arduino open source hardware platform. It provides new blocks for managing sensors and actuators connected to Arduino. There is also a sensors report board similar to the PicoBoard one.
+
+
+      - layout: top-middle
+        title: mouse control using hand gesture
+        link: 
+        quote: >
+          October 2015
+        description: | # this will include new lines to allow paragraphs
+            Controlled mouse pointer using colour finger caps, created an algorithm for tracking different colours at a single time and according to the frame locations interface the mouse pointer. Technology used: Computer Vision, MATLAB and JAVA.
+
+      - layout: top-middle
+        title: Ball tracking robot
+        link: 
+        quote: >
+          October 2015
+        description: | # this will include new lines to allow paragraphs
+            Object tracking robot vision-enabled robotic vehicle, which is able to track and follow any, specified object. Technology Used: Image Acquisition toolbox using MATLAB, Arduino.
+
+
+      - layout: top-middle
+        title: Fully automatic stairs climbing robot (robocon 2012)
+        link: 
+        quote: >
+          The theme for Robocon 2012 declared by Hong Kong, "Peng On Dai Gat". It was won by University of Electronic Science and Technology of China.
+        description: | # this will include new lines to allow paragraphs
+            It was a fully autonomous machine which capable of climbing stairs of maximum height 25cm with a maximum  load of 10Kg on it, It was embedded with wall sensing and collision avoidance.  Technology Used: 6 High Torque DC Motors, IRFP 640 power MOSFETs, heavy current relays, ULN2803, BC547, ADC, PWM, and ATMEGA 32.
+
+
+      - layout: top-middle
+        title: Automatic heavy load carrying transporter robot (robocon 2012)
+        link: 
+        quote: >
+          The theme for Robocon 2012 declared by Hong Kong, "Peng On Dai Gat". It was won by University of Electronic Science and Technology of China.
+        description: | # this will include new lines to allow paragraphs
+            It was a fully autonomous robot capable of picking an object of maximum weight 10 kg and placing that to any predefined point, it can sense the object at a range of 50 cm, and based on wall sensing and collision avoidance
+
+
+      - layout: top-middle
+        title: Semi Automatic manual robot (robocon 2012)
+        link: 
+        quote: >
+          The theme for Robocon 2012 declared by Hong Kong, "Peng On Dai Gat". It was won by University of Electronic Science and Technology of China.
+        description: | # this will include new lines to allow paragraphs
+            It was a semi-autonomous robot capable of carrying an 80kg human and 50 kg load, it can grab anything by using  a pneumatic hand can extend to 2 meter and able to lift 50 kg weight up to 2 meters of height.
+
+
+  - title: Awards
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Young Innovative Engineers Award (september 2012)
+        link: 
+        quote: >
+           by United Council of Engineers, Rajasthan 
+        # description: | # this will include new lines to allow paragraphs
+        #     It was a semi-autonomous robot capable of carrying an 80kg human and 50 kg load, it can grab anything by using  a pneumatic hand can extend to 2 meter and able to lift 50 kg weight up to 2 meters of height.
+  
+  - title: 
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+    content: |
+          I have had the greatest pleasure of receiving these awards during my academic career:
+          26 times national level championship WINNER
 
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+          |Date      | Competetion        | Place           | Event Name      | Position |
+          |:---------|:-------------------|:----------------|:----------------|:---------|
+          |08.02.2011|NEN (E-week'11)     | VIT, Jaipur     | Robo war        | First    |
+          |03.03.2011|Renaissance'11      | JECRC, Jaipur   | Robo survivor   | First    |
+          |07.03.2011|Enilaze'11          | KITE, Jaipur    | Robo blood shed | First    |
+          |08.03.2011|Enilaze'11          | KITE, Jaipur    | Robo maze       | First    |
+          |09.03.2011|Jigyasa'11          | GIT, Jaipur     | Fight club      | First    |
+          |15.03.2011|Panache'11          | VIT, Jaipur     | Robo war        | First    |
+          |16.03.2011|Panache'11          | VIT, Jaipur     | Formula A-Z     | First    |
+          |03.04.2011|Manthan'11          | SBCET, Jaipur   | Inforea         | First    |
+          |07.04.2011|Abhivyakti'11       | TSVP, Jaipur    | Robo sangram    | First    |
+          |07.04.2011|Abhivyakti'11       | TSVP, Jaipur    | Robo soccer     | First    |
+          |08.04.2011|Technokriti'11      | SIIT, Jaipur    | Robo war        | First    |
+          |19.04.2011|Esperanza'11        | IIMET, Jaipur   | Robo chakravyuh | First    |
+          |19.04.2011|Esperanza'11        | IIMET, Jaipur   | Pick-n-place    | First    |
+          |20.04.2011|Esperanza'11        | IIMET, Jaipur   | Robo soccer     | First    |
+          |06.06.2011|Pravah'11           | SKIT, Jaipur    | Robo marathon   | First    |
+          |08.06.2011|Pravah'11           | SKIT, Jaipur    | Robo soccer     | First    |
+          |09.06.2011|Pravah'11           | SKIT, Jaipur    | Robo war        | First    |
+          |17.09.2011|Shradhanjali'11     | ARYA, Jaipur    | Robotics        | First    |
+          |18.11.2011|SITE'11             | Shankara, Jaipur| Robo war        | First    |
+          |22.12.2011|Viva city'11        | LNMIIT, Jaipur  | Robo war        | First    |
+          |24.02.2012|Jigyasa'12          | GIT, Jaipur     | Robo sumo       | First    |
+          |25.02.2012|Jigyasa'12          | GIT, Jaipur     | Robo long jump  | First    |
+          |15.03.2012|Renaissance'12      | JECRC, Jaipur   | Formula zero    | First    |
+          |16.03.2012|Renaissance'12      | JECRC, Jaipur   | Robo war        | First    |
+          |22.03.2012|Fiesta'12           | BMIT, Jaipur    | Follow my way   | First    |
+          |23.03.2012|Fiesta'12           | BMIT, Jaipur    | Robo rustle     | First    |
+
+
+
+
+  - title:                Certifications
+    layout:               text
+    content:              |
+      <img alt="Udemy" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" style="width:20px;height:20px;"><a href="https://www.udemy.com/certificate/UC-6192cdd2-1d1e-40fa-b214-80e474edba47/" style="color:#96989b"> Udemy: Scrum Certification Prep +Scrum Master+ Agile Scrum Training</a><br/>
+      <img alt="Udemy" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" style="width:20px;height:20px;"><a href="https://www.udemy.com/certificate/UC-1838c2ca-c1c3-4084-b70c-d4e494ad7ae5/" style="color:#96989b"> Udemy: Getting Started with Embedded AI | Edge AI</a><br/>
+      <img alt="Udemy" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" style="width:20px;height:20px;"><a href="https://www.udemy.com/certificate/UC-3a902c5c-5692-4fd5-b5e2-d939ac3e7fbf/" style="color:#96989b"> Udemy: Mastering RTOS: Hands on FreeRTOS and STM32Fx with Debugging</a><br/>
+      <img alt="Udemy" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" style="width:20px;height:20px;"><a href="https://www.udemy.com/certificate/UC-44c579eb-5a0c-4bbb-97fa-438a161c0210/" style="color:#96989b"> Udemy: Master the Key ROS (Robot Operating System) Concepts to Create Powerful and Scalable Robot Applications</a><br/>
+
+
+
+
+  # - title: A Little More About Me
+  #   layout: text
+  #   content: | # this will include new lines to allow paragraphs
+  #     Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+  #     - Rock climbing
+  #     - Gaming
+  #     - Knitting
+
 
 # Footer
 footer_show_references: true
