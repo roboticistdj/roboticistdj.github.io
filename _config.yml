@@ -232,19 +232,16 @@ content:
         title: Sanjeevani (covid-19)
         link: 
         quote: >
-          SpO2 Based Smart Oxygen Delivery System for patients suffering from state of hypoxia.
+          SpO2 Based Smart Oxygen Delivery System for patients suffering from the state of hypoxia.
         description: | # this will include new lines to allow paragraphs
-            Sanjeevani the proposed system is a Smart Oxygen Delivery System for Covid-19 Patients . Considering current situation, oxygen delivery systems are the need of time. Patients are needed to be monitored thoughout day and night based on their SpO2(Blood Oxyegn Saturation) levels, and pulse levels oxygen should be supplied to save patients sinking into the state of Hypoxia. This smart system can be a boon during the current situation to the medical faternity.
-         
+            Sanjeevani the proposed system is a Smart Oxygen Delivery System for Covid-19 Patients. Considering the current situation, oxygen delivery systems are the need of time. Patients are needed to be monitored throughout day and night based on their SpO2(Blood Oxygen Saturation) levels, and pulse levels oxygen should be supplied to save patients sinking into the state of Hypoxia. This smart system can be a boon during the current situation to the medical fraternity.
       - layout: top-middle
         title: CEPA (agriculture)
         link: 
         quote: >
           Controlled Environment Precision Agriculture.
         description: | # this will include new lines to allow paragraphs
-            An Indian initiative in the field of precision agriculture - CEPA (Controlled Environment Precision Agriculture) Research and planned two type of intelligent robotic solutions, 1. CEPA-Cartesian which is work in closed environment with high precision. 2. CEPA-Rover, an intelligent electric vehicle with station and feedback who do land preparation, seeding, crop management, irrigation and harvesting autonomously.
-         
-
+            An Indian initiative in the field of precision agriculture - CEPA (Controlled Environment Precision Agriculture) Research and planned two types of intelligent robotic solutions, 1. CEPA-Cartesian which is work in a closed environment with high precision. 2. CEPA-Rover, an intelligent electric vehicle with station and feedback that do land preparation, seeding, crop management, irrigation and harvesting autonomously.
       - layout: top-middle
         title: AURORA (medical)
         link: 
@@ -257,10 +254,9 @@ content:
         title: The Roboseum
         link: https://sciencecity.gujarat.gov.in/ticketing/ticket/robotics-gallery-40
         quote: >
-          India's first robot gallery with 66 deifferent sections.
+          India's first robot gallery with 66 different sections.
         description: | # this will include new lines to allow paragraphs
-            Project Manager of The Roboseum, design and developements of all types of robots like domestic, industrial, commercial, entertainment, surgical etc. India to establish the world's first robot themed science center, to be called "the Roboseum". Commissioned during October '17 by Gujarat’s chief minister
-  
+            Project Manager of The Roboseum, design and developments of all types of robots like domestic, industrial, commercial, entertainment, surgical etc. India to establish the world's first robot-themed science centre, to be called "the Roboseum". Commissioned during October '17 by Gujarat’s chief minister
 
       - layout: top-middle
         title: Space Robot (replica of NASA robonaut)
@@ -268,26 +264,21 @@ content:
         quote: >
           Humanoid robot 
         description: | # this will include new lines to allow paragraphs
-            The human-like head consists of 2 cameras acting as the eyes of the robot and 2 speakers as the ears of the robot. The eye movements and the head movements are independent of each other. 5 DOF in each arm,16 DOF in each hand, 10 fingers sensors, 10 independent motorized fingers with silicon grip, 1 Kinect (gesture capture, 3D depth recognition), 1 PIR SENSOR (PRESENCE DETECTION)
-
-
+            The human-like head consists of 2 cameras acting as the eyes of the robot and 2 speakers as the ears of the robot. The eye movements and the head movements are independent of each other. 5 DOF in each arm,16 DOF in each hand, 10 fingers sensors, 10 independent motorized fingers with silicone grip, 1 Kinect (gesture capture, 3D depth recognition), 1 PIR SENSOR (PRESENCE DETECTION)
       - layout: top-middle
         title: SPLICE 3D printer
         link: 
         quote: >
           April 2017 - May 2018 
         description: | # this will include new lines to allow paragraphs
-            Splice 3DP module enables to print a multi-coloured object using single extruder, This Device based on Arduino. Key Features: Arduino, Stepper Motor, G-code, 3D Printer, Splicer Unit, Filament cutter, Communication b/w multiple devices.
-
-
+            Splice 3DP module enables to print of a multi-coloured object using a single extruder, This Device is based on Arduino. Key Features: Arduino, Stepper Motor, G-code, 3D Printer, Splicer Unit, Filament cutter, Communication b/w multiple devices.
       - layout: top-middle
         title: Peltier based tent air conditioner
         link: 
         quote: >
           June 2017 - October 2017 
         description: | # this will include new lines to allow paragraphs
-            As suggested by name it was planned to design a small portable solar powered air-conditioner for camping tent with some extra features like display humidity temperature, time etc., can be used as power backup for electronics devices.
-
+            As suggested by the name it was planned to design a small portable solar-powered air-conditioner for camping tent with some extra features like display humidity temperature, time etc., can be used as power backup for electronics devices.
       - layout: top-middle
         title: Test stand for harmonic drives
         link: 
@@ -311,25 +302,21 @@ content:
         quote: >
           June 2016 - January 2017 
         description: | # this will include new lines to allow paragraphs
-            It was a solo project that, Keywords:Image Processing;Kalman Filter; Automated vehicle Detection; Traffic Densities Counting;MATLAB. The  processed  images were recorded  by  a  fixed  camera  positioned in two  pedestrian  bridges. Along with the video images procurement, manual vehicle counting was completed to validate the automated counting tool.
-
-
+            It was a solo project that, Keywords: Image Processing; Kalman Filter; Automated vehicle Detection; Traffic Densities Counting; MATLAB. The processed images were recorded by a  fixed camera positioned in two pedestrian bridges. Along with the video images procurement, manual vehicle counting was completed to validate the automated counting tool.
       - layout: top-middle
         title: buyrobo.in
         link: buyrobo.in
         quote: >
           October 2016
         description: | # this will include new lines to allow paragraphs
-            It is an e-commerce website for robotics, electronics components and project solutions. design and develop product which was 1/10 of market price, all products was commercialised to promote STEM education.
-
-
+            It is an e-commerce website for robotics, electronics components and project solutions. design and develop a product that was 1/10 of market price, all products were commercialised to promote STEM education.
       - layout: top-middle
         title: Industrial Robotics ARM
         link: 
         quote: >
           May 2016
         description: | # this will include new lines to allow paragraphs
-            Industrial hand for pick and place objects from conveyor belt using PLC and Arduino. The technology used: Arduino, Delta PLC, Infrared sensors, Metal detector, Servo Motors.
+            Industrial hand for picking and placing objects from conveyor belt using PLC and Arduino. The technology used: Arduino, Delta PLC, Infrared sensors, Metal detector, Servo Motors.
 
 
       - layout: top-middle
@@ -338,17 +325,16 @@ content:
         quote: >
           March 2016
         description: | # this will include new lines to allow paragraphs
-            This project was built to detect and recognize human EAR using neural network and image acquisition toolbox. For this we used MATLAB as a processing tool. We did image preprocessing to remove unwanted information of ear images, also performed steps like image segmentation and feature extraction to get desirable shape of ear for ear recognition system purpose.
-
+            This project was built to detect and recognize human EAR using neural network and image acquisition toolbox. For this, we used MATLAB as a processing tool. We did image preprocessing to remove unwanted information from ear images, also performed steps like image segmentation and feature extraction to get the desired shape of the ear for ear recognition system purposes.
       - layout: top-middle
         title: Face recognition based attendance system for classrooms.
         link: 
         quote: >
           March 2016
         description: | # this will include new lines to allow paragraphs
-            Multiple face recognition from a single photograph and automatically saved and marked in excel sheet. Technology: Principle Component Analysis, MATLAB, Neural Network. 
-            Calculate the eigen value of the captured face image and compared with that of the existing face images. If the eigen values matches, then the recognition process will start soon. Using PCA algorithm the following steps would be followed Find the face information of matched face image in the database.
-            Update the log table with corresponding face image and system time that makes completion of attendance for an individual students.
+            Multiple face recognition from a single photograph and automatically saved and marked in an excel sheet. Technology: Principle Component Analysis, MATLAB, Neural Network. 
+            Calculate the eigenvalue of the captured face image and compared it with that of the existing face images. If the eigenvalues match, then the recognition process will start soon. Using the PCA algorithm the following steps would be followed Find the face information of matched face image in the database.
+            Update the log table with the corresponding face image and system time that makes the completion of attendance for individual students.
 
       - layout: top-middle
         title: Face recognition System.
@@ -356,15 +342,15 @@ content:
         quote: >
           January 2016
         description: | # this will include new lines to allow paragraphs
-            Human face detection and recognition using viola jones and Eigenvalue algorithm, 4000 images in 4 second with 96% accuracy.
-
+            Human face detection and recognition using viola jones and Eigenvalue algorithm, 4000 images in 4 seconds with 96% accuracy.
+            
       - layout: top-middle
         title: FACIAL FEATURE DETECTION AND RECOGNITION
         link: 
         quote: >
           January 2016
         description: | # this will include new lines to allow paragraphs
-            Human facial feature detection such as Mouth, eyes, ears, nose and Smile.Technology used: Facial feature extraction, MATLAB.
+            Human facial feature detection such as Mouth, eyes, ears, nose and Smile. Technology used: Facial feature extraction, MATLAB.
 
       - layout: top-middle
         title: STEM Traning modules
@@ -381,7 +367,7 @@ content:
         quote: >
           December 2015
         description: | # this will include new lines to allow paragraphs
-            Developed Graphical based programming enviornment for kids under 10. MATuino is about prototyping innovative tech ideas which involves Python , Arduino, Raspberry Pi and data and image analytics. nterfacing Arduino UNO with MATLAB without using any supporting inbuilt functions. So , for answering all those queries I am posting this article by explaining MATLAB & Arduino UNO serial communication .
+            Developed a Graphical based programming environment for kids under 10. MATuino is about prototyping innovative tech ideas which involves Python, Arduino, Raspberry Pi and data and image analytics. interfacing Arduino UNO with MATLAB without using any supporting inbuilt functions. So, for answering all those queries I am posting this article by explaining MATLAB & Arduino UNO serial communication.
 
 
       - layout: top-middle
@@ -390,7 +376,7 @@ content:
         quote: >
           November 2015
         description: | # this will include new lines to allow paragraphs
-            Designed Arduino programming environment using scratch software for 6+ age of children’s. S4A is a Scratch modification that allows for simple programming of the Arduino open source hardware platform. It provides new blocks for managing sensors and actuators connected to Arduino. There is also a sensors report board similar to the PicoBoard one.
+            Designed Arduino programming environment using scratch software for 6+ age of children. S4A is a Scratch modification that allows for simple programming of the Arduino open-source hardware platform. It provides new blocks for managing sensors and actuators connected to Arduino. There is also a sensors report board similar to the PicoBoard one.
 
 
       - layout: top-middle
@@ -399,7 +385,7 @@ content:
         quote: >
           October 2015
         description: | # this will include new lines to allow paragraphs
-            Controlled mouse pointer using colour finger caps, created an algorithm for tracking different colours at a single time and according to the frame locations interface the mouse pointer. Technology used: Computer Vision, MATLAB and JAVA.
+            Controlled mouse pointer using colour finger caps, created an algorithm for tracking different colours at a single time and according to the frame, locations interface the mouse pointer. The technology used: Computer Vision, MATLAB and JAVA.
 
       - layout: top-middle
         title: Ball tracking robot
@@ -407,7 +393,7 @@ content:
         quote: >
           October 2015
         description: | # this will include new lines to allow paragraphs
-            Object tracking robot vision-enabled robotic vehicle, which is able to track and follow any, specified object. Technology Used: Image Acquisition toolbox using MATLAB, Arduino.
+            Object tracking robot vision-enabled robotic vehicle, which can track and follow any, specified object. Technology Used: Image Acquisition toolbox using MATLAB, Arduino.
 
 
       - layout: top-middle
@@ -416,7 +402,7 @@ content:
         quote: >
           The theme for Robocon 2012 declared by Hong Kong, "Peng On Dai Gat". It was won by University of Electronic Science and Technology of China.
         description: | # this will include new lines to allow paragraphs
-            It was a fully autonomous machine which capable of climbing stairs of maximum height 25cm with a maximum  load of 10Kg on it, It was embedded with wall sensing and collision avoidance.  Technology Used: 6 High Torque DC Motors, IRFP 640 power MOSFETs, heavy current relays, ULN2803, BC547, ADC, PWM, and ATMEGA 32.
+            It was a fully autonomous machine capable of climbing stairs of a maximum height of 25cm with a maximum load of 10Kg on it, It was embedded with wall sensing and collision avoidance.  Technology Used: 6 High Torque DC Motors, IRFP 640 power MOSFETs, heavy current relays, ULN2803, BC547, ADC, PWM, and ATMEGA 32.
 
 
       - layout: top-middle
@@ -434,7 +420,7 @@ content:
         quote: >
           The theme for Robocon 2012 declared by Hong Kong, "Peng On Dai Gat". It was won by University of Electronic Science and Technology of China.
         description: | # this will include new lines to allow paragraphs
-            It was a semi-autonomous robot capable of carrying an 80kg human and 50 kg load, it can grab anything by using  a pneumatic hand can extend to 2 meter and able to lift 50 kg weight up to 2 meters of height.
+            It was a semi-autonomous robot capable of carrying an 80kg human and 50 kg load, it can grab anything by using a pneumatic hand that can extend to 2 meters and able to lift 50 kg weight to 2 meters of height.
 
 
   - title: Awards
