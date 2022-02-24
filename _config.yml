@@ -10,7 +10,6 @@ name: Deepak Jaiswal
 title: Manager Research & Development
 email: roboticist.dj@gmail.com
 phone: +91 - 9011093361
-# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -48,11 +47,11 @@ youtube_username: UCJB0J7SqpBZvuCOylvAVM7A
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
+# about_title: About Me 
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Deepak Jaiswal and I'm a Roboticist. I'm experianced in developing products from scratch. I'm passionate about Robotics, ROS, A.I, M.L, D.L, Embedded Systems, Industry 4.0 and Algorithms. I have worked at a number of companies gaining teamwork and leadership skills.
-
+  Hi, my name is Deepak Jaiswal and I'm a Roboticist. I'm experienced in developing products from scratch. I'm passionate about Robotics, ROS, A.I, M.L, D.L, Embedded Systems, Industry 4.0 and Algorithms. I have worked at several companies gaining teamwork and leadership skills.
+  I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
   
 content:
   - title: Experience # Title for the section
@@ -65,9 +64,9 @@ content:
         sub_title: Research & Development Manager
         caption: Febuary 2019 - Present
         quote: >
-          Solving Industry 4.0 problems by developing A.I enabled products to predict machine failure and machine vision to improve Quality. 
+          Solving Industry 4.0 problems by developing A. I. enabled products to predict machine failure and machine vision to improve Quality. 
         description: | # this will include new lines to allow paragraphs
-            Enabling Data driven manufacturing is hard due to harsh enviornment and Bharat Forge Ltd. is no exception, with a team of 10-12 engineers we develop highly engineered ML enabled devices solve shop floor issues. 
+            Enabling Data-driven manufacturing is difficult due to the harsh environment, and Bharat Forge Ltd. is no exception, with a team of 10-12 engineers we develop highly engineered ML-enabled devices to solve shop floor issues. 
 
 
       - layout: left
@@ -79,8 +78,7 @@ content:
         quote: >
           followed passion to stick with robotics, developed multiple prototypes until got the chance to build India's first robotics museum.
         description: | # this will include new lines to allow paragraphs
-            Initially worked as Sr. Mechatronics Engineer on Humanoid robots and Animatronics, build R&D prototype for precision agriculture with 8-10 people, later planned/bid for the roboseum received grant of INR 150 Crores worth project, which we excuted with 70-80 engineers.  
- 
+            Initially worked as Sr. Mechatronics Engineer on Humanoid robots and Animatronics, to build R&D prototype for precision agriculture with 8-10 people, later planned/bid for the roboseum received a grant of INR 150 Crores worth project, which we executed with 70-80 engineers.  
 
       - layout: left
         title: IndiaFirst robotics
@@ -89,10 +87,9 @@ content:
         sub_title: Chief Technology Officer
         caption: August 2015 - January 2017
         quote: >
-          started as an technical associates as i wanted to get back to Robotics did some awesome project and promoted to CTO of the organization
+          started as a technical associate as I wanted to get back to Robotics did some awesome projects to bring more business to company initiated new sectors and was promoted to CTO of the organization
         description: | # this will include new lines to allow paragraphs
-            During this position, I was responsible to conduct Research and Development including technical development, Cost control and generation of profits, Provide quality support, Product Promotion, Planning and Executing project and training for franchisee and staff of the company.   
-
+            During this position, I was responsible to conduct Research and Development including technical development, Cost control and generation of profits, Providing quality support, Product Promotion, Planning and Executing project and training for franchisees and staff of the company.
       - layout: left
         title: Gleam Energy Solutions
         link: http://whiteplacard.com/
@@ -102,9 +99,7 @@ content:
         quote: >
           A startup during college focused to solve energy losses & renewable energy
         description: | # this will include new lines to allow paragraphs
-            Initially deals/distributed LED lights in Uttar Pradesh region as C&F whiteplacard technology. later started Researh & Development facility to utilise clean & green energy to manufacture energy efficient LED Lighting systems, and developed solutions on Smart Lighting & Solar energy.
-
-
+            Initially, deals/distributed LED lights in Uttar Pradesh region as C&F whiteplacard technology. meanwhile, I started Research & Development facility to utilise clean & green energy to manufacture energy-efficient LED Lighting systems and developed solutions for Smart Lighting & Solar energy.
       - layout: left
         title: White Placard
         link: http://whiteplacard.com/
@@ -112,11 +107,9 @@ content:
         sub_title: Researcher / Internship
         caption: 2010 - 2012
         quote: >
-          Journey started to become roboticist, robotics clubs, robotics competition, Seminars, workshops.
+          The journey started to become a roboticist, robotics clubs, robotics competitions, Seminars, workshops.
         description: | # this will include new lines to allow paragraphs
-            college time where i love to spend time in robotics Lab rather classrooms, Won 26 national competitions, conducted 20/30 robotics workshops & A.I. Seminars across India, Research on genetic A.I.
-
-
+            college time where I love to spend time in robotics labs rather than in classrooms, Won 26 national competitions, conducted 20/30 robotics workshops & A.I. Seminars across India, Research on genetic A.I.
 
   - title: part-time social experiance # Title for the section
     layout: list # Type of content section (list/text)
@@ -131,8 +124,7 @@ content:
         quote: >
           Mentor of change for Atal Incubation Centre (initiated by AIM: Atal Innovation Mission).
         description: | # this will include new lines to allow paragraphs
-            To create an ever-evolving ecosystem of start-ups and entrepreneurs, AIM has been establishing world class incubators called Atal Incubation Centres (AICs) at universities, institutions and corporates among others. These Centres aim to foster and support world class innovation, dynamic entrepreneurs who want to build scalable and sustainable enterprises.
-      
+            To create an ever-evolving ecosystem of start-ups and entrepreneurs, AIM has been establishing world-class incubators called Atal Incubation Centres (AICs) at universities, institutions and corporates among others. These Centres aim to foster and support world-class innovation, dynamic entrepreneurs who want to build scalable and sustainable enterprises.
       - layout: left
         title: NITI Aayog
         link: https://aim.gov.in/atl.php
@@ -146,8 +138,6 @@ content:
 
 
 
-
-
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -158,10 +148,9 @@ content:
         quote: >
           GIT  has been recognised as the top Engineering Institutes in Rajasthan for the last 19 years and ranked 'A' by Rajasthan Technical University (RTU), Kota
         description: | # this will include new lines to allow paragraphs
-          During my time at GIT I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+           During my time at GIT, I learned most of the key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and learnt a lot about a healthy work-life balance.
 
           I spent a lot of my free time as a member of the *GEARS robotics club* taking on roles such as *Mechatronics Lead* and *President*.
-
       - layout: left
         title: Technocrat Automation
         caption: 2014 - 2015
@@ -169,9 +158,9 @@ content:
         quote: >
           Est. 1998, Hands on Industrial Automation training & International Accreditation Organization certifications
         description: | # this will include new lines to allow paragraphs
-          Post Graduate Diploma in Industrial Automation during my training at Technocrat Automation I worked on 6 mojor brands of PLCs, 2 mojor brands of SCADA, 3 DCS, VFD, MMI, Pneumatics & Field Instruments, PAC & servo motion control
+          Post Graduate Diploma in Industrial Automation during my training at Technocrat Automation I worked on six major brands of PLCs, two major brands of SCADA, 3 DCS, VFD, MMI, Pneumatics & Field Instruments, PAC & servo motion control
 
-          Experimented and build multiple solutions for industries based on PLC, DCS & Robotics automation. 
+          Experimented to build multiple solutions for industries based on PLC, DCS & Robotics automation. 
 
       - layout: left
         title: CBSE Delhi
@@ -195,9 +184,9 @@ content:
         quote: >
           Live machine health analysis. M.L., FFT, DSP, machine to machine communication, failure prediction. 
         description: | # this will include new lines to allow paragraphs
-          I started this project to reduce machine downtime, Project LIMHA is focused on real time machine behavior analysis, it is a complete system with various level of computation like mist, fog & Edge computing. 9 axis accelation transmitted to cluster of edge computers becomes a AI supercomputer and runs ML algorithms to do real time anomaly, decriptive, prescriptive & predictive analysis on the Edge.
-
-
+          LIMHA is a real-time analysis of machine health that gathers real-time machine data using sensors and analyses the health of the machine with the help of AI-ML algorithms. The objective of the project is to detect any abnormality in the machine behaviour, probable error in any of the machine components and to predict probable failure before it happens to reduce downtime, maintenance cost, production delay, and any unfortunate incident due to machine failure. 
+          
+          Edge computing has been used which makes communication faster, enforces privacy, gives greater operational efficiency, and is having lower operating costs. It segregates the probable failure into multiple levels and then gives the root cause of the failure and generates alerts and recommendations which makes maintenance easily understandable and less time-consuming.
       - layout: top-middle
         title: MPICV
         link: 
@@ -205,18 +194,15 @@ content:
         quote: >
           magnetic partical inspection using computer vision. (crack detection), NDT, CV
         description: | # this will include new lines to allow paragraphs
-          Replaced human inspector which was 80% accuracy due to UV enviornment, developed low cost product to do non destructive testing under dark light. product based on vision camera as input and SoC as Edge computing unit which detect and learn human inspector behavior to take decision on quality analysis. 
-
-
+         Quality is a key role in any inspection process. Computer-vision based magnetic particle inspection (MPICV) is accurate, precise, reliable and is designed for the inspection of ferrous components up to 600 mm in length. This self-contained system with the camera sensor, edge device, UV light source is a low-cost unit that detects and estimate the length of surface cracks using the wet continuous method of MPI.  This magnetic particle inspection with CV would be a reinforcement learning-based system that will continuously learn and make itself accurate to detect cracks and length of cracks with the help of AI/ML algorithms with precision and accuracy.
       - layout: top-middle
         title: Data Management Handbook for Industry 4.0
         link: https://sibc.se/isblrt
 
         quote: >
-          Digitalization is a joint working group under ISBLRT (India Sweden Business Leaders Roundtable) for sharing knowledge, to collaboration and to do business. This handbook is a result of that work. 
+          Digitalization is a joint working group under ISBLRT (India Sweden Business Leaders Roundtable) for sharing knowledge, collaboration and doing business. This handbook is a result of that work. 
         description: | # this will include new lines to allow paragraphs
-           ISBLRT is as a high-level platform for business leaders from Sweden and India to identify joint challenges in the fields of research, innovation, investments, financing, trade, business, industrialization and regulatory issues which need to be addressed to forge a strong and durable relationship between the two countries. This forum of business leaders will identify collaborations, draw upon best practices, and advise political leadership on both sides, on the way forward to quickly develop our relationship from bilateral, European and global business perspectives. 
-
+           ISBLRT is a high-level platform for business leaders from Sweden and India to identify joint challenges in the fields of research, innovation, investments, financing, trade, business, industrialization and regulatory issues which need to be addressed to forge a strong and durable relationship between the two countries. This forum of business leaders will identify collaborations, draw upon best practices, and advise political leadership on both sides, on the way forward to quickly develop our relationship from bilateral, European and global business perspectives. 
       - layout: top-middle
         title: PufferFish ventilator (Stanford University)
         link: https://www.pez-globo.org/
@@ -229,16 +215,15 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          PufferFish is a rapidly manufacturable open-source full featured ventilator.
+          PufferFish is a rapidly manufacturable open-source full-featured ventilator.
         description: | # this will include new lines to allow paragraphs
-          Pufferfish is an open-source, full-featured ICU ventilator. It is the result of a communal effort to design a solution that is low-cost, can be manufactured rapidly and is clinically relevant for COVID-19 patients. With peak flow rate above 300 l/min, Pufferfish can be used to provide both invasive and noninvasive ventilation as well as high flow oxygen therapy. 
-
+          Pufferfish is an open-source, full-featured ICU ventilator. It is the result of a communal effort to design a low-cost solution, that can be manufactured rapidly and is clinically relevant for COVID-19 patients. With a peak flow rate above 300 l/min, Pufferfish can be used to provide both invasive and noninvasive ventilation as well as high flow oxygen therapy. 
       - layout: top-middle
         title: VITAL software V0.2 (JPL NASA)
         link: https://medeng.jpl.nasa.gov/covid-19/ventilator/
 
         quote: >
-          JPL developed prototype with emergency use authorization from the FDA, VITAL: Ventilator Intervention Technology Accessible Locally 
+          JPL developed a prototype with emergency use authorization from the FDA, VITAL: Ventilator Intervention Technology Accessible Locally 
         description: | # this will include new lines to allow paragraphs
            As a licensee for VITAL (covid-19 ventilator device) we developed software V0.2 to manufacture and distribute ventilators across INDIA. 
            The VITAL ventilator is unique, versatile, and designed for more acutely ill patients. It will satisfactorily meet the demands of those who require aggressive ventilatory support in a variety of clinical states, which may include low compliance, high resistance, hypoxia and hypercapnia 
