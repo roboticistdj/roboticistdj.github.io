@@ -9,7 +9,8 @@ version: 2
 name: Deepak Jaiswal
 title: Manager Research & Development
 email: roboticist.dj@gmail.com
-phone: +91 - 901109336100
+phone: +91 - 9011093361
+# website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: never
@@ -51,6 +52,7 @@ youtube_username: UCJB0J7SqpBZvuCOylvAVM7A
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Deepak Jaiswal and I'm a Roboticist. I'm experienced in developing products from scratch. I'm passionate about Robotics, ROS, A.I, M.L, D.L, Embedded Systems, Industry 4.0 and Algorithms. I have worked at several companies gaining teamwork and leadership skills.
+  
   I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
   
 content:
@@ -80,6 +82,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Initially worked as Sr. Mechatronics Engineer on Humanoid robots and Animatronics, to build R&D prototype for precision agriculture with 8-10 people, later planned/bid for the roboseum received a grant of INR 150 Crores worth project, which we executed with 70-80 engineers.  
 
+
       - layout: left
         title: IndiaFirst robotics
         link: indiafirstrobotics.com
@@ -90,6 +93,7 @@ content:
           started as a technical associate as I wanted to get back to Robotics did some awesome projects to bring more business to company initiated new sectors and was promoted to CTO of the organization
         description: | # this will include new lines to allow paragraphs
             During this position, I was responsible to conduct Research and Development including technical development, Cost control and generation of profits, Providing quality support, Product Promotion, Planning and Executing project and training for franchisees and staff of the company.
+
       - layout: left
         title: Gleam Energy Solutions
         link: http://whiteplacard.com/
@@ -100,6 +104,8 @@ content:
           A startup during college focused to solve energy losses & renewable energy
         description: | # this will include new lines to allow paragraphs
             Initially, deals/distributed LED lights in Uttar Pradesh region as C&F whiteplacard technology. meanwhile, I started Research & Development facility to utilise clean & green energy to manufacture energy-efficient LED Lighting systems and developed solutions for Smart Lighting & Solar energy.
+
+
       - layout: left
         title: White Placard
         link: http://whiteplacard.com/
@@ -110,6 +116,8 @@ content:
           The journey started to become a roboticist, robotics clubs, robotics competitions, Seminars, workshops.
         description: | # this will include new lines to allow paragraphs
             college time where I love to spend time in robotics labs rather than in classrooms, Won 26 national competitions, conducted 20/30 robotics workshops & A.I. Seminars across India, Research on genetic A.I.
+
+
 
   - title: part-time social experiance # Title for the section
     layout: list # Type of content section (list/text)
@@ -125,6 +133,7 @@ content:
           Mentor of change for Atal Incubation Centre (initiated by AIM: Atal Innovation Mission).
         description: | # this will include new lines to allow paragraphs
             To create an ever-evolving ecosystem of start-ups and entrepreneurs, AIM has been establishing world-class incubators called Atal Incubation Centres (AICs) at universities, institutions and corporates among others. These Centres aim to foster and support world-class innovation, dynamic entrepreneurs who want to build scalable and sustainable enterprises.
+
       - layout: left
         title: NITI Aayog
         link: https://aim.gov.in/atl.php
@@ -135,6 +144,8 @@ content:
           Mentor of change for Atal Tinkering Lab (initiated by AIM: Atal Innovation Mission).
         description: | # this will include new lines to allow paragraphs
             With a vision to ‘Cultivate one Million children in India as Neoteric Innovators’, Atal Innovation Mission is establishing Atal Tinkering Laboratories (ATLs) in schools across India. The objective of this scheme is to foster curiosity, creativity, and imagination in young minds; and inculcate skills such as design mindset, computational thinking, adaptive learning, physical computing etc.
+
+
 
 
 
@@ -150,7 +161,8 @@ content:
         description: | # this will include new lines to allow paragraphs
            During my time at GIT, I learned most of the key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and learnt a lot about a healthy work-life balance.
 
-          I spent a lot of my free time as a member of the *GEARS robotics club* taking on roles such as *Mechatronics Lead* and *President*.
+            I spent a lot of my free time as a member of the *GEARS robotics club* taking on roles such as *Mechatronics Lead* and *President*.
+
       - layout: left
         title: Technocrat Automation
         caption: 2014 - 2015
@@ -187,6 +199,7 @@ content:
           LIMHA is a real-time analysis of machine health that gathers real-time machine data using sensors and analyses the health of the machine with the help of AI-ML algorithms. The objective of the project is to detect any abnormality in the machine behaviour, probable error in any of the machine components and to predict probable failure before it happens to reduce downtime, maintenance cost, production delay, and any unfortunate incident due to machine failure. 
           
           Edge computing has been used which makes communication faster, enforces privacy, gives greater operational efficiency, and is having lower operating costs. It segregates the probable failure into multiple levels and then gives the root cause of the failure and generates alerts and recommendations which makes maintenance easily understandable and less time-consuming.
+
       - layout: top-middle
         title: MPICV
         link: 
@@ -194,7 +207,8 @@ content:
         quote: >
           magnetic partical inspection using computer vision. (crack detection), NDT, CV
         description: | # this will include new lines to allow paragraphs
-         Quality is a key role in any inspection process. Computer-vision based magnetic particle inspection (MPICV) is accurate, precise, reliable and is designed for the inspection of ferrous components up to 600 mm in length. This self-contained system with the camera sensor, edge device, UV light source is a low-cost unit that detects and estimate the length of surface cracks using the wet continuous method of MPI.  This magnetic particle inspection with CV would be a reinforcement learning-based system that will continuously learn and make itself accurate to detect cracks and length of cracks with the help of AI/ML algorithms with precision and accuracy.
+          Quality is a key role in any inspection process. Computer-vision based magnetic particle inspection (MPICV) is accurate, precise, reliable and is designed for the inspection of ferrous components up to 600 mm in length. This self-contained system with the camera sensor, edge device, UV light source is a low-cost unit that detects and estimate the length of surface cracks using the wet continuous method of MPI.  This magnetic particle inspection with CV would be a reinforcement learning-based system that will continuously learn and make itself accurate to detect cracks and length of cracks with the help of AI/ML algorithms with precision and accuracy.
+
       - layout: top-middle
         title: Data Management Handbook for Industry 4.0
         link: https://sibc.se/isblrt
@@ -203,6 +217,7 @@ content:
           Digitalization is a joint working group under ISBLRT (India Sweden Business Leaders Roundtable) for sharing knowledge, collaboration and doing business. This handbook is a result of that work. 
         description: | # this will include new lines to allow paragraphs
            ISBLRT is a high-level platform for business leaders from Sweden and India to identify joint challenges in the fields of research, innovation, investments, financing, trade, business, industrialization and regulatory issues which need to be addressed to forge a strong and durable relationship between the two countries. This forum of business leaders will identify collaborations, draw upon best practices, and advise political leadership on both sides, on the way forward to quickly develop our relationship from bilateral, European and global business perspectives. 
+
       - layout: top-middle
         title: PufferFish ventilator (Stanford University)
         link: https://www.pez-globo.org/
@@ -234,6 +249,7 @@ content:
         quote: >
           SpO2 Based Smart Oxygen Delivery System for patients suffering from the state of hypoxia.
         description: | # this will include new lines to allow paragraphs
+
             Sanjeevani the proposed system is a Smart Oxygen Delivery System for Covid-19 Patients. Considering the current situation, oxygen delivery systems are the need of time. Patients are needed to be monitored throughout day and night based on their SpO2(Blood Oxygen Saturation) levels, and pulse levels oxygen should be supplied to save patients sinking into the state of Hypoxia. This smart system can be a boon during the current situation to the medical fraternity.
       - layout: top-middle
         title: CEPA (agriculture)
@@ -242,6 +258,7 @@ content:
           Controlled Environment Precision Agriculture.
         description: | # this will include new lines to allow paragraphs
             An Indian initiative in the field of precision agriculture - CEPA (Controlled Environment Precision Agriculture) Research and planned two types of intelligent robotic solutions, 1. CEPA-Cartesian which is work in a closed environment with high precision. 2. CEPA-Rover, an intelligent electric vehicle with station and feedback that do land preparation, seeding, crop management, irrigation and harvesting autonomously.
+
       - layout: top-middle
         title: AURORA (medical)
         link: 
@@ -265,6 +282,7 @@ content:
           Humanoid robot 
         description: | # this will include new lines to allow paragraphs
             The human-like head consists of 2 cameras acting as the eyes of the robot and 2 speakers as the ears of the robot. The eye movements and the head movements are independent of each other. 5 DOF in each arm,16 DOF in each hand, 10 fingers sensors, 10 independent motorized fingers with silicone grip, 1 Kinect (gesture capture, 3D depth recognition), 1 PIR SENSOR (PRESENCE DETECTION)
+
       - layout: top-middle
         title: SPLICE 3D printer
         link: 
@@ -272,6 +290,7 @@ content:
           April 2017 - May 2018 
         description: | # this will include new lines to allow paragraphs
             Splice 3DP module enables to print of a multi-coloured object using a single extruder, This Device is based on Arduino. Key Features: Arduino, Stepper Motor, G-code, 3D Printer, Splicer Unit, Filament cutter, Communication b/w multiple devices.
+
       - layout: top-middle
         title: Peltier based tent air conditioner
         link: 
@@ -279,6 +298,7 @@ content:
           June 2017 - October 2017 
         description: | # this will include new lines to allow paragraphs
             As suggested by the name it was planned to design a small portable solar-powered air-conditioner for camping tent with some extra features like display humidity temperature, time etc., can be used as power backup for electronics devices.
+
       - layout: top-middle
         title: Test stand for harmonic drives
         link: 
@@ -303,6 +323,7 @@ content:
           June 2016 - January 2017 
         description: | # this will include new lines to allow paragraphs
             It was a solo project that, Keywords: Image Processing; Kalman Filter; Automated vehicle Detection; Traffic Densities Counting; MATLAB. The processed images were recorded by a  fixed camera positioned in two pedestrian bridges. Along with the video images procurement, manual vehicle counting was completed to validate the automated counting tool.
+
       - layout: top-middle
         title: buyrobo.in
         link: buyrobo.in
@@ -310,6 +331,7 @@ content:
           October 2016
         description: | # this will include new lines to allow paragraphs
             It is an e-commerce website for robotics, electronics components and project solutions. design and develop a product that was 1/10 of market price, all products were commercialised to promote STEM education.
+
       - layout: top-middle
         title: Industrial Robotics ARM
         link: 
@@ -326,6 +348,7 @@ content:
           March 2016
         description: | # this will include new lines to allow paragraphs
             This project was built to detect and recognize human EAR using neural network and image acquisition toolbox. For this, we used MATLAB as a processing tool. We did image preprocessing to remove unwanted information from ear images, also performed steps like image segmentation and feature extraction to get the desired shape of the ear for ear recognition system purposes.
+
       - layout: top-middle
         title: Face recognition based attendance system for classrooms.
         link: 
@@ -335,6 +358,7 @@ content:
             Multiple face recognition from a single photograph and automatically saved and marked in an excel sheet. Technology: Principle Component Analysis, MATLAB, Neural Network. 
             Calculate the eigenvalue of the captured face image and compared it with that of the existing face images. If the eigenvalues match, then the recognition process will start soon. Using the PCA algorithm the following steps would be followed Find the face information of matched face image in the database.
             Update the log table with the corresponding face image and system time that makes the completion of attendance for individual students.
+
 
       - layout: top-middle
         title: Face recognition System.
