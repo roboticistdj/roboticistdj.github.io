@@ -48,13 +48,12 @@ youtube_username: UCJB0J7SqpBZvuCOylvAVM7A
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+# about_title: About Me I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Deepak Jaiswal and I'm a Roboticist. I'm experianced in developing products from scratch. I'm passionate about Robotics, ROS, A.I, M.L, D.L, Embedded Systems, Industry 4.0 and Algorithms. I have worked at a number of companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
-
+  
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
