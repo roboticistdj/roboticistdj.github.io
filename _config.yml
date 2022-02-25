@@ -56,7 +56,9 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
   
   Here's a sampling of the technologies I've worked with:
-  - digital signal processing (<mark>FFT</mark> [fastfft])
+  - digital signal processing ([<mark>FFT</mark>] [fastfft])
+  
+  
   
   
   You can also [download my resume as a PDF][resume].
