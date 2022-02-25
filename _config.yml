@@ -57,8 +57,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   Here's a sampling of the technologies I've worked with:
   
-  - digital signal processing [<mark>FFT</mark>][fastfft]
-  - distributed & decentralized computing [<mark>edge computing</mark>][edge], [<mark>fog computing</mark>][fog], [<mark>cloud computing</mark>][cloud]
+  - Digital signal processing [<mark>FFT</mark>][fastfft], [<mark>frequency domain analysis</mark>][freq], <mark>Time frequency analysis</mark>
+  - Distributed & decentralized computing [<mark>edge computing</mark>][edge], [<mark>fog computing</mark>][fog], [<mark>cloud computing</mark>][cloud]
+  - Robotics [<mark>ROS</mark>][ros], [<mark>SLAM</mark>][slm], [<mark>Gazebo</mark>][gaz]
   
   
   
@@ -71,7 +72,10 @@ about_content: | # this will include new lines to allow paragraphs
   [edge]:         https://en.wikipedia.org/wiki/Edge_computing
   [fog]:          https://en.wikipedia.org/wiki/Fog_computing
   [cloud]:        https://en.wikipedia.org/wiki/Cloud_computing
-  
+  [freq]:         https://en.wikipedia.org/wiki/Frequency_domain
+  [ros]:          https://www.ros.org/
+  [slm]:          https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
+  [gaz]:          http://gazebosim.org/
   
   
   
