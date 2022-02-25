@@ -56,12 +56,12 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
   
   Here's a sampling of the technologies I've worked with:
-  - Programming languages [<mark>Python</mark>][py], [<mark>C++</mark>][cplus], [<mark>Embedded C</mark>][ec] , [<mark>MATLAB</mark>][mat]
+  - Programming languages [<mark>Python</mark>][py], [<mark>C++</mark>][cplus], [<mark>Embedded C</mark>][ec], [<mark>MATLAB</mark>][mat]
   - Digital signal processing [<mark>FFT</mark>][fastfft], [<mark>frequency domain analysis</mark>][freq], <mark>Time frequency analysis</mark>
   - Distributed & decentralized computing [<mark>edge computing</mark>][edge], [<mark>fog computing</mark>][fog], [<mark>cloud computing</mark>][cloud]
   - Robotics [<mark>ROS</mark>][ros], [<mark>SLAM</mark>][slm], [<mark>Gazebo</mark>][gaz], [<mark>Rviz</mark>][rviz]
   - Artificial Intelligence [<mark>Machine Learning</mark>][ml], [<mark>Deep Learning</mark>][DL], [<mark>Neural Networks</mark>][nn], [<mark>Embedded AI</mark>][aihw], [<mark>Computer Vision</mark>][cv]
-  - Others [<mark>Data Management & Analytics</mark>], [<mark>Linux</mark>], [<mark>RTOS</mark>][rtos], [<mark>SoC</mark>][soc], [<mark>micro-controllers</mark>][mc], [<mark>ARM</mark>][arm], [<mark>Rapid prototyping</mark>][3dp], [<mark>Uncrewed vehicles</mark>][uav], <mark>Technology Analysis & Strategic Management</mark>
+  - Others <mark>Data Management & Analytics</mark>, <mark>Linux</mark>, [<mark>RTOS</mark>][rtos], [<mark>SoC</mark>][soc], [<mark>micro-controllers</mark>][mc], [<mark>ARM</mark>][arm], [<mark>Rapid prototyping</mark>][3dp], [<mark>Uncrewed vehicles</mark>][uav], <mark>Technology Analysis & Strategic Management</mark>
   
   
   
