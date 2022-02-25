@@ -90,9 +90,9 @@ about_content: | # this will include new lines to allow paragraphs
   [rtos]:         https://www.freertos.org/about-RTOS.html 
   [soc]:          https://en.wikipedia.org/wiki/System_on_a_chip
   [mc]:           https://en.wikipedia.org/wiki/Microcontroller
-  [arm]           https://en.wikipedia.org/wiki/ARM_architecture_family
-  [3dp]           https://en.wikipedia.org/wiki/Rapid_prototyping
-  [uav]           https://en.wikipedia.org/wiki/Uncrewed_vehicle
+  [arm]:          https://en.wikipedia.org/wiki/ARM_architecture_family
+  [3dp]:          https://en.wikipedia.org/wiki/Rapid_prototyping
+  [uav]:          https://en.wikipedia.org/wiki/Uncrewed_vehicle
   
   
 content:
