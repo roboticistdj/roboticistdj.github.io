@@ -59,7 +59,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   - Digital signal processing [<mark>FFT</mark>][fastfft], [<mark>frequency domain analysis</mark>][freq], <mark>Time frequency analysis</mark>
   - Distributed & decentralized computing [<mark>edge computing</mark>][edge], [<mark>fog computing</mark>][fog], [<mark>cloud computing</mark>][cloud]
-  - Robotics [<mark>ROS</mark>][ros], [<mark>SLAM</mark>][slm], [<mark>Gazebo</mark>][gaz]
+  - Robotics [<mark>ROS</mark>][ros], [<mark>SLAM</mark>][slm], [<mark>Gazebo</mark>][gaz], [<mark>Rviz</mark>][rviz]
+  - Artificial Intelligence [<mark>Machine Learning</mark>][ml], [<mark>Deep Learning</mark>][DL], [<mark>Neural Networks</mark>][nn], [<mark>Hardware AI</mark>][aihw]
   
   
   
@@ -76,7 +77,11 @@ about_content: | # this will include new lines to allow paragraphs
   [ros]:          https://www.ros.org/
   [slm]:          https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping
   [gaz]:          http://gazebosim.org/
-  
+  [rviz]:         https://github.com/ros-visualization/rviz
+  [ml]:           https://en.wikipedia.org/wiki/Machine_learning
+  [DL]:           https://en.wikipedia.org/wiki/Deep_learning
+  [nn]:           https://en.wikipedia.org/wiki/Neural_network
+  [aihw]:         https://en.wikipedia.org/wiki/AI_accelerator
   
   
 content:
