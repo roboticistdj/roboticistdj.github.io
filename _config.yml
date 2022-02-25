@@ -55,10 +55,16 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
   
+  Here's a sampling of the technologies I've worked with:
+  - digital signal processing (<mark>FFT</mark> [fastfft])
+  
+  
   You can also [download my resume as a PDF][resume].
    
    
   [resume]:       /resume_deepakjaiswal.pdf
+  [fastfft]:      https://en.wikipedia.org/wiki/Fast_Fourier_transform
+  
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
