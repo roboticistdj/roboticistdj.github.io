@@ -56,8 +56,9 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
   
   Here's a sampling of the technologies I've worked with:
-       - digital signal processing ([<mark>FFT</mark>][fastfft])
-       - distributed & decentralized computing [<mark>edge computing</mark>][edge], [<mark>fog computing</mark>][fog], [<mark>cloud computing</mark>][cloud]
+  
+  - digital signal processing [<mark>FFT</mark>][fastfft]
+  - distributed & decentralized computing [<mark>edge computing</mark>][edge], [<mark>fog computing</mark>][fog], [<mark>cloud computing</mark>][cloud]
   
   
   
