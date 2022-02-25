@@ -56,19 +56,23 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
   
   Here's a sampling of the technologies I've worked with:
-  
+  - Programming languages [<mark>Python</mark>][py], [<mark>C++</mark>][cplus], [<mark>Embedded C</mark>][ec] , [<mark>MATLAB</mark>][mat]
   - Digital signal processing [<mark>FFT</mark>][fastfft], [<mark>frequency domain analysis</mark>][freq], <mark>Time frequency analysis</mark>
   - Distributed & decentralized computing [<mark>edge computing</mark>][edge], [<mark>fog computing</mark>][fog], [<mark>cloud computing</mark>][cloud]
   - Robotics [<mark>ROS</mark>][ros], [<mark>SLAM</mark>][slm], [<mark>Gazebo</mark>][gaz], [<mark>Rviz</mark>][rviz]
-  - Artificial Intelligence [<mark>Machine Learning</mark>][ml], [<mark>Deep Learning</mark>][DL], [<mark>Neural Networks</mark>][nn], [<mark>Hardware AI</mark>][aihw]
+  - Artificial Intelligence [<mark>Machine Learning</mark>][ml], [<mark>Deep Learning</mark>][DL], [<mark>Neural Networks</mark>][nn], [<mark>Embedded AI</mark>][aihw], [<mark>Computer Vision</mark>][cv]
+  - Others [<mark>Data Management & Analytics</mark>], [<mark>Linux</mark>], [<mark>RTOS</mark>][rtos], [<mark>SoC</mark>][soc], [<mark>micro-controllers</mark>][mc], [<mark>ARM</mark>][arm], [<mark>Rapid prototyping</mark>][3dp], [<mark>Uncrewed vehicles</mark>][uav], <mark>Technology Analysis & Strategic Management</mark>
   
   
   
   
   You can also [download my resume as a PDF][resume].
    
-   
   [resume]:       /resume_deepakjaiswal.pdf
+  [py]:           https://www.python.org/
+  [cplus]:        https://www.cplusplus.com/
+  [ec]:           https://en.wikipedia.org/wiki/Embedded_C
+  [mat]:          https://www.mathworks.com/products/matlab.html
   [fastfft]:      https://en.wikipedia.org/wiki/Fast_Fourier_transform
   [edge]:         https://en.wikipedia.org/wiki/Edge_computing
   [fog]:          https://en.wikipedia.org/wiki/Fog_computing
@@ -81,7 +85,14 @@ about_content: | # this will include new lines to allow paragraphs
   [ml]:           https://en.wikipedia.org/wiki/Machine_learning
   [DL]:           https://en.wikipedia.org/wiki/Deep_learning
   [nn]:           https://en.wikipedia.org/wiki/Neural_network
-  [aihw]:         https://en.wikipedia.org/wiki/AI_accelerator
+  [aihw]:         https://www.nvidia.com/en-in/autonomous-machines/embedded-systems/
+  [cv]:           https://en.wikipedia.org/wiki/Computer_vision
+  [rtos]:         https://www.freertos.org/about-RTOS.html 
+  [soc]:          https://en.wikipedia.org/wiki/System_on_a_chip
+  [mc]:           https://en.wikipedia.org/wiki/Microcontroller
+  [arm]           https://en.wikipedia.org/wiki/ARM_architecture_family
+  [3dp]           https://en.wikipedia.org/wiki/Rapid_prototyping
+  [uav]           https://en.wikipedia.org/wiki/Uncrewed_vehicle
   
   
 content:
@@ -114,7 +125,7 @@ content:
 
       - layout: left
         title: IndiaFirst robotics
-        link: indiafirstrobotics.com
+        link: https://indiafirstrobotics.com/
         # link_text: boringcompany.com
         sub_title: Chief Technology Officer
         caption: August 2015 - January 2017
