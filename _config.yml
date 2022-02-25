@@ -55,6 +55,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
   
+  You can also [download my resume as a PDF][resume].
+   
+   
+  [resume]:       /resume_deepakjaiswal.pdf
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
