@@ -8,7 +8,7 @@ version: 2
 # Personal info
 name: Deepak Jaiswal
 title: Manager Research & Development
-email: roboticist.dj@gmail.com
+email: deepakjaiswal498@gmail.com
 phone: +91 - 9011093361
 # website: www.github.com/sproogen/resume-theme
 
@@ -53,7 +53,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Deepak Jaiswal and I'm a Roboticist. I'm experienced in developing products from scratch. I'm passionate about Robotics, ROS, A.I, M.L, D.L, Embedded Systems, Industry 4.0 and Algorithms. I have worked at several companies gaining teamwork and leadership skills.
   
-  I am most skilled in: <mark>Robotics</mark> and <mark>AI/ML tools</mark>
+  I am most skilled in: <mark>Strategic Leadership</mark>, <mark>Digital Transformation</mark> and <mark>AI/ML tools</mark>
   
   Here's a sampling of the technologies I've worked with:
   - Programming languages [<mark>Python</mark>][py], [<mark>C++</mark>][cplus], [<mark>Embedded C</mark>][ec], [<mark>MATLAB</mark>][mat]
