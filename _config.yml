@@ -606,7 +606,10 @@ content:
       <img alt="Udemy" src="https://www.vectorlogo.zone/logos/udemy/udemy-icon.svg" style="width:20px;height:20px;"><a href="https://www.udemy.com/certificate/UC-44c579eb-5a0c-4bbb-97fa-438a161c0210/" style="color:#96989b"> Udemy: Master the Key ROS (Robot Operating System) Concepts to Create Powerful and Scalable Robot Applications</a><br/>
 
 
-
+additional_links:
+- title: Pdf Download
+  icon: far fa-file-pdf
+  url: https://github.com/roboticistdj}/roboticistdj.github.io/raw/main/pdf/cv.pdf
 
   # - title: A Little More About Me
   #   layout: text
