@@ -164,15 +164,15 @@ content:
     content:
 
       - layout: left
-          title: E-Cell IIT Bombay
-          link: https://www.ecell.in/eureka/
+        title: E-Cell IIT Bombay
+        link: https://www.ecell.in/eureka/
           # link_text: boringcompany.com
-          sub_title: Mentor for Eureka! 22
-          caption: October 2022 - Present
-          quote: >
-            The Entrepreneurship Cell of IIT Bombay presents the 25th edition of Eureka! 2022, Asia’s largest Business model competition. 
-          description: | # this will include new lines to allow paragraphs
-              This platform provides the perfect opportunity for its participants to fast-track their entrepreneurial journey and turn their ideas into viable business models.
+        sub_title: Mentor for Eureka! 22
+        caption: October 2022 - Present
+        quote: >
+          The Entrepreneurship Cell of IIT Bombay presents the 25th edition of Eureka! 2022, Asia’s largest Business model competition. 
+        description: | # this will include new lines to allow paragraphs
+            This platform provides the perfect opportunity for its participants to fast-track their entrepreneurial journey and turn their ideas into viable business models.
 
       - layout: left
         title: NITI Aayog
