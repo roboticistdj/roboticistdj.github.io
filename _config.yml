@@ -229,6 +229,20 @@ content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
+    
+    
+     - layout: top-middle
+        title: QAFI 
+        link: 
+
+        quote: >
+          project QAFI: Quality Analysis Final Inspection, Goal: Zero defect forward
+        description: | # this will include new lines to allow paragraphs
+          Project Qafi is designed to perform various parameter check on crankshaft before shipment using Machine Vision and 3D point cloud data.
+          
+          A fully automatic system to scan 1.4 meter object for defects like Burr, Scratch, Rust, Dent marks, Impression marks, it also generate 360 scan view of the object and compare with master object.
+    
+    
       - layout: top-middle
         title: LIMHA 
         link: 
