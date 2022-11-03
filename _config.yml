@@ -274,6 +274,42 @@ content:
         description: | # this will include new lines to allow paragraphs
           Quality is a key role in any inspection process. Computer-vision based magnetic particle inspection (MPICV) is accurate, precise, reliable and is designed for the inspection of ferrous components up to 600 mm in length. This self-contained system with the camera sensor, edge device, UV light source is a low-cost unit that detects and estimate the length of surface cracks using the wet continuous method of MPI.  This magnetic particle inspection with CV would be a reinforcement learning-based system that will continuously learn and make itself accurate to detect cracks and length of cracks with the help of AI/ML algorithms with precision and accuracy.
 
+
+
+      - layout: top-middle
+        title: CSR CoE Vidya Pratishthan
+        link: 
+
+        quote: >
+          Center of Excellence in Artificial Intelligence and Data Science
+        description: | # this will include new lines to allow paragraphs
+          CoE has been established by the joint efforts of Bharat Forge Limited, Pune and Vidya Pratishthan, Baramati. Under this CSR initiative of Bharat Forge the leadership from both the organizations have decided to establish the center which will help the students from nearby vicinity of Baramati.
+          
+          The center will be focusing on training/self-learning, research, industry collaborations, IPRs, and entrepreneurship activities in the field of Artificial Intelligence, Data Analytics, IOT, Robotics, Electric Vehicles and VLSI Design. 
+
+
+      - layout: top-middle
+        title: Digital Twin
+        link: 
+
+        quote: >
+          Dynamic digital twin of machines with Real time locating systems for fork-lift and 3D visualization, Goal: Digital Transformation
+        description: | # this will include new lines to allow paragraphs
+          Digital Twins can make the crucial difference to the smooth running of a business T hey have become an important component of many industries including manufacturing On top of it with a successful Real Time Locating Service (RTLS) integration, it can be leveraged for multiple purposes throughout the entire factory, having a wide ranging, positive impact on operations
+      
+
+
+      - layout: top-middle
+        title: SLMR
+        link: 
+
+        quote: >
+          Self Learning Multi-Legged Robot
+        description: | # this will include new lines to allow paragraphs
+          Technologies: Robotics, AGV, UAV, ROS, SLAM, GAZEBO, RTOS, Machine Learning, Computer Vision, Edge computing, AI on Edge, Lidar and Point cloud data
+    
+      
+      
       - layout: top-middle
         title: Data Management Handbook for Industry 4.0
         link: https://sibc.se/isblrt
