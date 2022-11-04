@@ -607,9 +607,9 @@ content:
 
 
  #additional_links:
-  - title: Pdf Download
-    icon: far fa-file-pdf
-    url: https://github.com/roboticistdj/roboticistdj.github.io/raw/main/pdf/cv.pdf
+  #- title: Pdf Download
+   # icon: far fa-file-pdf
+   # url: https://github.com/roboticistdj/roboticistdj.github.io/raw/main/pdf/cv.pdf
 
   # - title: A Little More About Me
   #   layout: text
