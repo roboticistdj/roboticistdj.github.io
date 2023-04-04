@@ -226,10 +226,10 @@ content:
         quote: >
           GIT  has been recognised as the top Engineering Institutes in Rajasthan for the last 19 years and ranked 'A' by Rajasthan Technical University (RTU), Kota
         description: | # this will include new lines to allow paragraphs
-           During my time at GIT, I learned most of the key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thoroughly enjoyed my time at university and learnt a lot about a healthy work-life balance.
+           During my time at GIT, I honed many of the key skills that have served me well throughout my career, including teamwork and the ability to work to tight deadlines. I thoroughly enjoyed my time at university and learned a lot about achieving a healthy work-life balance.
 
-            I spent a lot of my free time as a member of the *GEARS robotics club* taking on roles such as *Mechatronics Lead* and *President*.
-
+          As a member of the GEARS robotics club, I was able to take on a leadership role and contribute to the growth and success of the club. As the Mechatronics Lead and President, I developed my technical expertise and leadership skills, helping to organize and lead robotics competitions and events.
+      
       - layout: left
         title: Technocrat Automation
         caption: 2014 - 2015
@@ -237,9 +237,9 @@ content:
         quote: >
           Est. 1998, Hands on Industrial Automation training & International Accreditation Organization certifications
         description: | # this will include new lines to allow paragraphs
-          Post Graduate Diploma in Industrial Automation during my training at Technocrat Automation I worked on six major brands of PLCs, two major brands of SCADA, 3 DCS, VFD, MMI, Pneumatics & Field Instruments, PAC & servo motion control
+          During my training at Technocrat Automation for the Post Graduate Diploma in Industrial Automation, I worked on multiple major brands of PLCs, SCADA, DCS, VFD, MMI, Pneumatics & Field Instruments, PAC, and servo motion control.
 
-          Experimented to build multiple solutions for industries based on PLC, DCS & Robotics automation. 
+          Through my experience, I built multiple solutions for industries based on PLC, DCS, and Robotics automation. My hands-on training and experimentation provided me with a solid foundation in industrial automation and control systems.
 
       - layout: left
         title: CBSE Delhi
@@ -248,9 +248,9 @@ content:
         quote: >
           Govt. Boys Sr. Sec. School , Block-A, Janakpuri, New Delhi was established in 1973 and it is managed by the Department of Education.
         description: | # this will include new lines to allow paragraphs
-          from 6th standard to 12th studied in govt. school, major Science, Mathematics. 
+          I attended a government school from 6th to 12th grade, with a focus on Science and Mathematics. During this time, I was also an NCC cadet for 4 years and a member of the Delhi Civil Defense for 2 years.
 
-          NCC cadet for 4 years, delhi civil defense 2 years. 
+          To support myself during college, I worked as an Ice Cream vending distributor to collect money. Through these experiences, I developed important skills in time management, leadership, and resourcefulness.
 
 
   - title: Projects # Title for the section
