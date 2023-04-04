@@ -115,9 +115,13 @@ content:
         quote: >
           Solving Industry 4.0 problems by developing A. I. enabled products to predict machine failure and machine vision to improve Quality. 
         description: | # this will include new lines to allow paragraphs
-            Enabling Data-driven manufacturing is difficult due to the harsh environment, and Bharat Forge Ltd. is no exception, with a team of 10-12 engineers we develop highly engineered ML-enabled devices to solve shop floor issues. 
-
-
+            At Bharat Forge Ltd., I work as part of a team of 10-12 engineers to develop highly engineered, ML-enabled devices that solve shop floor issues. Our focus is on value-based digitalization, using innovative technologies to drive efficiency and productivity throughout the manufacturing process.
+            In addition to developing ML-enabled devices, we have also implemented a Dark factory initiative, leveraging advanced automation technologies to create a fully autonomous manufacturing environment. We have implemented fully automated quality inspection through computer vision, enabling us to quickly and accurately detect defects and ensure consistent quality in our products.
+            
+            Our team is also exploring the potential of AR, VR, and generative AI to enhance our manufacturing capabilities. Through our work, we are pushing the boundaries of what is possible in the manufacturing industry, driving innovation and progress.
+            
+            Overall, our goal is to optimize operations, reduce downtime, and improve the overall performance of the manufacturing process. Through our innovative approach and use of cutting-edge technologies, we are helping to shape the future of manufacturing.
+            
       - layout: left
         title: Aliyance Technology
         link: https://www.aliyancemech.com/
